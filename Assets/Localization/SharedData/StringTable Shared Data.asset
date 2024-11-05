@@ -1,0 +1,128 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b11a58205ec3474ca216360e9fa74a8, type: 3}
+  m_Name: StringTable Shared Data
+  m_EditorClassIdentifier: 
+  m_TableCollectionName: StringTable
+  m_TableCollectionNameGuidString: 346f49cb3fd71e94b960bca7c28da2c6
+  m_Entries:
+  - m_Id: 399685550080
+    m_Key: default
+    m_Metadata:
+      m_Items: []
+  - m_Id: 124598307618816
+    m_Key: opening
+    m_Metadata:
+      m_Items: []
+  - m_Id: 374444868337664
+    m_Key: narrator-name
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2576787013730304
+    m_Key: default-long
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6162437898076160
+    m_Key: example-character
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6163067215642624
+    m_Key: example-greet
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6163178914152448
+    m_Key: example-welcome
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6163803987083264
+    m_Key: example-dialogue-a
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6164091036860416
+    m_Key: example-character-other
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6164806236995584
+    m_Key: example-dialogue-b
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6164837933350912
+    m_Key: example-dialogue-c
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6164885576450048
+    m_Key: example-dialogue-d
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6164929356595200
+    m_Key: example-dialogue-e
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6164970297196544
+    m_Key: example-dialogue-f
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6165012030521344
+    m_Key: example-dialogue-g
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6165088777895936
+    m_Key: example-dialogue-h
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6165162908024832
+    m_Key: example-dialogue-i
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6165203030736896
+    m_Key: example-dialogue-j
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6165269153939456
+    m_Key: example-choice-a
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6165336904531968
+    m_Key: example-choice-b
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6165406626447360
+    m_Key: example-choice-c
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6165477820563456
+    m_Key: example-dialogue-k
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6165529968345088
+    m_Key: example-dialogue-l
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6165562746830848
+    m_Key: example-dialogue-m
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6165573962399744
+    m_Key: example-dialogue-n
+    m_Metadata:
+      m_Items: []
+  m_Metadata:
+    m_Items: []
+  m_KeyGenerator:
+    rid: 1735329927090929716
+  references:
+    version: 2
+    RefIds:
+    - rid: 1735329927090929716
+      type: {class: DistributedUIDGenerator, ns: UnityEngine.Localization.Tables, asm: Unity.Localization}
+      data:
+        m_CustomEpoch: 1729230639144

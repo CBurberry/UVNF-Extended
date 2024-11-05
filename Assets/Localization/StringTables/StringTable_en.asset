@@ -1,0 +1,146 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: StringTable_en
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: en
+  m_SharedData: {fileID: 11400000, guid: 346f49cb3fd71e94b960bca7c28da2c6, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 399685550080
+    m_Localized: Test
+    m_Metadata:
+      m_Items: []
+  - m_Id: 124598307618816
+    m_Localized: Our protagonist awakes in the morning.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 374444868337664
+    m_Localized: Narrator
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2576787013730304
+    m_Localized: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
+      eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim
+      veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+      consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum
+      dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident,
+      sunt in culpa qui officia deserunt mollit anim id est laborum.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6162437898076160
+    m_Localized: Velorexe
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6163067215642624
+    m_Localized: Hello!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6163178914152448
+    m_Localized: Welcome to UVNF! I think it's really cool that you decided to give
+      this a download.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6163803987083264
+    m_Localized: It took me quite some time to make this whole framework, so I would
+      love some feedback on either the GitHub page or to me privately on Discord
+      (Velorexe#8403).
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6164091036860416
+    m_Localized: Jocelyn
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6164806236995584
+    m_Localized: After some dicussion with the artist for this project (Jocelyn Hatch)
+      I've decided to release it a bit earlier than I intended to.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6164837933350912
+    m_Localized: This was mostly a decision based on the lack of feedback I was able
+      to get from my close surroundings and the motivation I got from seeing multiple
+      GitHub users favouriting my project.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6164885576450048
+    m_Localized: So let me give you a little tour of what you can do with this framework
+      (for now).
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6164929356595200
+    m_Localized: As you can hear I got some audio dialogue implemented. These can
+      do beeps and boops (total ripoff from Animal Crossing, yikes) and normal audio.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6164970297196544
+    m_Localized: Ofcourse you can also use the Dialogue options that don't have audio
+      on them for some internal thinking of your character.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6165012030521344
+    m_Localized: Since Characters are very important to any visual novel, I spend
+      way too much time implemented a stupid implementation that took way too much
+      time where characters "stack" on either side of the screen.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6165088777895936
+    m_Localized: You got quite some options when using this framework to customize
+      little things, I hope to expand this further in the future.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6165162908024832
+    m_Localized: Even though it contains a lot of rings and bells, I didn't forget
+      about the core features...
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6165203030736896
+    m_Localized: Like choices! Every choice has it's own outcome, which can be connected
+      to any node of your choice.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6165269153939456
+    m_Localized: Vote this to yeet Velorexe off the earth.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6165336904531968
+    m_Localized: Option 1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6165406626447360
+    m_Localized: Option 3
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6165477820563456
+    m_Localized: Or in this case all end in the same end choice.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6165529968345088
+    m_Localized: If you want a full list of all the elements you can use, you can
+      open the UVNFStoryElements window in the UVNF tab.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6165562746830848
+    m_Localized: If you're really depraved on info, please DM me on Discord (Velorexe#8403,
+      still thinking about opening a Discord server). You can also DM me if you want
+      custom elements that you think the framework needs.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6165573962399744
+    m_Localized: Anyways, I'm pretty much done explaining right now. So you can see
+      how far you'll get before you miss any UVNF Elements.
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []
