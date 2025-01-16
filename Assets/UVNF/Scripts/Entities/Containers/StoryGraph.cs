@@ -14,7 +14,7 @@ using UnityEditor.Localization;
 
 namespace UVNF.Entities.Containers
 {
-    [CreateAssetMenu()]
+    [CreateAssetMenu(fileName = "NewStory", menuName = "UVNF/Story Graph")]
     public class StoryGraph : NodeGraph
     {
         //Add a common scope random such that graph elements can use as necessary (for deterministic seeding)

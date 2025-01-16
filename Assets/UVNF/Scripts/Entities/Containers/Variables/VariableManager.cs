@@ -7,7 +7,7 @@ using UnityEngine;
 
 namespace UVNF.Entities.Containers.Variables
 {
-    [CreateAssetMenu]
+    [CreateAssetMenu(fileName = "NewVariables", menuName = "UVNF/Variable Manager")]
     public class VariableManager : ScriptableObject
     {
         [SerializeField]
