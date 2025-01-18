@@ -16,19 +16,7 @@ MonoBehaviour:
   m_Data:
     m_SerializedData: []
   m_GUID: 56292394a88cb9b4ca4b43ee527ba300
-  m_SerializeEntries:
-  - m_GUID: 093ab6ec74e8a8b4fb00b9af5785458d
-    m_Address: AudioTestRecording_JA
-    m_ReadOnly: 1
-    m_SerializedLabels:
-    - Locale-ja
-    FlaggedDuringContentUpdateRestriction: 0
-  - m_GUID: 198b9351e9aab0d46a8b9df6eccbb608
-    m_Address: NotoSansJP-Medium SDF
-    m_ReadOnly: 1
-    m_SerializedLabels:
-    - Locale-ja
-    FlaggedDuringContentUpdateRestriction: 0
+  m_SerializeEntries: []
   m_ReadOnly: 1
   m_Settings: {fileID: 11400000, guid: 8c725170f1ca0bc4c9042b3018c31d73, type: 2}
   m_SchemaSet:

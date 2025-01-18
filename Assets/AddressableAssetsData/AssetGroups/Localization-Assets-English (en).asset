@@ -29,12 +29,6 @@ MonoBehaviour:
     m_SerializedLabels:
     - Locale-en
     FlaggedDuringContentUpdateRestriction: 0
-  - m_GUID: fa15f410697f853438f131b235d1c3d8
-    m_Address: AudioTestRecording_EN
-    m_ReadOnly: 1
-    m_SerializedLabels:
-    - Locale-en
-    FlaggedDuringContentUpdateRestriction: 0
   m_ReadOnly: 1
   m_Settings: {fileID: 11400000, guid: 8c725170f1ca0bc4c9042b3018c31d73, type: 2}
   m_SchemaSet:
