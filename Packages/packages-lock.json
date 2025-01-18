@@ -1,5 +1,17 @@
 {
   "dependencies": {
+    "ayellowpaper.serialized-dictionary": {
+      "version": "file:ayellowpaper.serialized-dictionary",
+      "depth": 0,
+      "source": "embedded",
+      "dependencies": {}
+    },
+    "com.dbrizov.naughtyattributes": {
+      "version": "file:com.dbrizov.naughtyattributes",
+      "depth": 0,
+      "source": "embedded",
+      "dependencies": {}
+    },
     "com.github.siccity.xnode": {
       "version": "file:com.github.siccity.xnode@d6effd70f5",
       "depth": 0,
