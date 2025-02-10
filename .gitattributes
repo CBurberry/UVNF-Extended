@@ -1,0 +1,5 @@
+# Equivalent to core.autocrlf=input in git config
+* text=auto eol=lf
+
+# Font .asset files exceed 100MB and need to be used in Git LFS
+Assets/Fonts/*.asset filter=lfs diff=lfs merge=lfs -text
