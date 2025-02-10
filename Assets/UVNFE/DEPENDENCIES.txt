@@ -1,0 +1,7 @@
+This custom UVNF-E package relies on the following dependencies:
+* NaughtyAttributes (https://github.com/dbrizov/NaughtyAttributes)
+* SerializedCollections (https://github.com/ayellowpaper/SerializedDictionary)
+* Custom xNode package (modified version of commit d6effd70f5)
+* Custom xNode Groups package (modified version of commit 8478323f9f)
+
+See the manifest.json for this project. All the local packages are dependencies of UVNFE.
